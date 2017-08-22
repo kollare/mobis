@@ -1,5 +1,6 @@
 taskkill /f /im "SDSMan.exe"
 taskkill /f /im "SDSMan64.exe"
+taskkill /f /im "SDSLogin.exe"
 
 cd C:\Windows\softcamp\sds
 
