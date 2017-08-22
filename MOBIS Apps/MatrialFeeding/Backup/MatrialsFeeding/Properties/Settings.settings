@@ -1,0 +1,106 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OMMCDP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DISPLAY_SEQ_H_RATIO" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="DISPLAY_PART_H_RATIO" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="CONNECTIONSTRING" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=10.120.175.75;database=OMMCDP;uid=OMMCDP;pwd=MNA_M!2008</Value>
+    </Setting>
+    <Setting Name="MSGBOX_HIDE_DELAY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="AUTO_SKIP_ENABLE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AUTO_SKIP_SECOND" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="AUTO_SKIP_BARCODE_TO_PART_NO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N/A|N/A</Value>
+    </Setting>
+    <Setting Name="MSGBOX_ENABLE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PART_GROUP_CHECK" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PART_GROUP_DISPLAY" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SQL_GET_PCINFO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT PC.PC_CODE,
+       PC.PC_NAME,
+       PC.LINE_CODE,
+       PC.STATION_CODE,
+       PC.PC_IDX,
+       PC.MAIN_TITLE,
+       PC.IP_ADDRESS,
+       PC_KIND,
+       PC.SCANNER_PORT,
+       PC.SCANNER_BAUD,
+       PC.KEEP_ALIVE,
+       PC.HEARTBEAT_TIME,
+       ISNULL (CM.VALUE_01, '2') AS ROW_COUNT,
+       ISNULL (CM.VALUE_02, '2') AS COLUMN_COUNT,
+       ISNULL (CM.VALUE_03, 'HORIZONTAL') AS DIRECTION,
+       CM.VALUE_05 AS REVS_COUNT,
+       CM.VALUE_06 AS PLCNM_CODES,
+       CM.VALUE_07 AS PROC_DONE_FLAG,
+       CM.VALUE_08 AS DISPLAY_PATTERN
+  FROM MST_PCINFO PC
+       LEFT OUTER JOIN MST_COMMON CM
+          ON PC.PC_CODE = CM.COMMON_CODE AND CM.COMMON_GROUP = 'MAT_FEEDING'
+ WHERE PC.IP_ADDRESS = '{0}'</Value>
+    </Setting>
+    <Setting Name="PART_BACKCOLOR_OK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="PART_FORECOLOR_OK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="PART_BACKCOLOR_NEXTWORKS" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightYellow</Value>
+    </Setting>
+    <Setting Name="PART_FORECOLOR_NEXTWORKS" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="PART_BACKCOLOR_NG" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="PART_FORECOLOR_NG" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="PART_BACKCOLOR_CURRENTWORK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="PART_FORECOLOR_CURRENTWORK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="SEQ_BACKCOLOR_CURRENTWORK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkBlue</Value>
+    </Setting>
+    <Setting Name="SEQ_FORECOLOR_CURRENTWORK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="SEQ_BACKCOLOR_NEXTWORKS" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SteelBlue</Value>
+    </Setting>
+    <Setting Name="SEQ_FORECOLOR_NEXTWORKS" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="SEQ_BACKCOLOR_OK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SteelBlue</Value>
+    </Setting>
+    <Setting Name="SEQ_FORECOLOR_OK" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="SEQ_FORECOLOR_GROUP" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

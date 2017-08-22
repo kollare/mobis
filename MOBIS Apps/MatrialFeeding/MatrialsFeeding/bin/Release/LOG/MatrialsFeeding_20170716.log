@@ -1,0 +1,255 @@
+00:04:24:65 | I | Matching ok | SEQ : 20174746890, PART : 52124713AD, SCAN P52124713AD, CELL [1,1]
+00:04:29:22 | I | Matching ok | SEQ : 20174746880, PART : 52124713AD, SCAN P52124713AD, CELL [1,2]
+00:04:38:65 | I | Matching ok | SEQ : 20174746870, PART : 52124713AD, SCAN P52124713AD, CELL [1,3]
+00:04:40:70 | I | Matching ok | SEQ : 20174746860, PART : N/A, SCAN N/A, CELL [1,4]
+00:04:49:37 | I | Matching ok | SEQ : 20174746850, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+00:04:53:48 | I | Matching ok | SEQ : 20174746840, PART : 52124713AD, SCAN P52124713AD, CELL [1,6]
+00:04:59:52 | I | Matching ok | SEQ : 20174746950, PART : 52124713AD, SCAN P52124713AD, CELL [2,1]
+00:06:10:53 | I | Matching ok | SEQ : 20174746940, PART : 52124713AD, SCAN P52124713AD, CELL [2,2]
+00:06:33:70 | I | Matching ok | SEQ : 20174746930, PART : 52124713AD, SCAN P52124713AD, CELL [2,3]
+00:06:44:51 | I | Matching ok | SEQ : 20174746920, PART : 04578885AC, SCAN P04578885AC, CELL [2,4]
+00:06:46:55 | I | Matching ok | SEQ : 20174746910, PART : N/A, SCAN N/A, CELL [2,5]
+00:06:50:50 | I | Matching ok | SEQ : 20174746900, PART : 52124713AD, SCAN P52124713AD, CELL [2,6]
+00:14:18:44 | I | Matching ok | SEQ : 20174747010, PART : 04578885AC, SCAN P04578885AC, CELL [1,1]
+00:14:31:04 | I | Matching ok | SEQ : 20174747000, PART : 52124713AD, SCAN P52124713AD, CELL [1,2]
+00:14:45:47 | I | Matching ok | SEQ : 20174746990, PART : 52124713AD, SCAN P52124713AD, CELL [1,3]
+00:14:47:48 | I | Matching ok | SEQ : 20174746980, PART : N/A, SCAN N/A, CELL [1,4]
+00:15:04:02 | I | Matching ok | SEQ : 20174746970, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+00:15:06:74 | I | Matching ok | SEQ : 20174746960, PART : 52124713AD, SCAN P52124713AD, CELL [1,6]
+00:15:18:67 | I | Matching ok | SEQ : 20174747070, PART : 52124713AD, SCAN P52124713AD, CELL [2,1]
+00:15:20:68 | I | Matching ok | SEQ : 20174747060, PART : N/A, SCAN N/A, CELL [2,2]
+00:15:33:66 | I | Matching ok | SEQ : 20174747050, PART : 52124713AD, SCAN P52124713AD, CELL [2,3]
+00:16:28:17 | I | Matching ok | SEQ : 20174747040, PART : 52124713AD, SCAN P52124713AD, CELL [2,4]
+00:16:30:20 | I | Matching ok | SEQ : 20174747030, PART : N/A, SCAN N/A, CELL [2,5]
+00:16:39:34 | I | Matching ok | SEQ : 20174747020, PART : 52124713AD, SCAN P52124713AD, CELL [2,6]
+00:16:41:62 | I | Matching ok | SEQ : 20174747130, PART : N/A, SCAN N/A, CELL [1,1]
+00:23:41:75 | I | Matching ok | SEQ : 20174747120, PART : 52124713AD, SCAN P52124713AD, CELL [1,2]
+00:23:43:77 | I | Matching ok | SEQ : 20174747110, PART : N/A, SCAN N/A, CELL [1,3]
+00:23:45:78 | I | Matching ok | SEQ : 20174747100, PART : N/A, SCAN N/A, CELL [1,4]
+00:23:52:55 | I | Matching ok | SEQ : 20174747090, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+00:24:03:33 | I | Matching ok | SEQ : 20174747080, PART : 52124713AD, SCAN P52124713AD, CELL [1,6]
+00:24:05:34 | I | Matching ok | SEQ : 20174747190, PART : N/A, SCAN N/A, CELL [2,1]
+00:24:19:51 | I | Matching ok | SEQ : 20174747180, PART : 52124713AD, SCAN P52124713AD, CELL [2,2]
+00:24:29:85 | I | Matching ok | SEQ : 20174747170, PART : 52124713AD, SCAN P52124713AD, CELL [2,3]
+00:24:31:86 | I | Matching ok | SEQ : 20174747160, PART : N/A, SCAN N/A, CELL [2,4]
+00:24:41:45 | I | Matching ok | SEQ : 20174747150, PART : 52124713AD, SCAN P52124713AD, CELL [2,5]
+00:24:43:47 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [2,6]
+00:28:19:00 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:28:19:01 | E | There is no row at position 11.
+00:28:19:01 | E | There is no row at position 11.
+00:28:22:64 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:28:22:64 | E | There is no row at position 11.
+00:28:22:64 | E | There is no row at position 11.
+00:28:31:86 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:28:31:86 | E | There is no row at position 11.
+00:28:31:86 | E | There is no row at position 11.
+00:28:34:67 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:28:34:67 | E | There is no row at position 11.
+00:28:34:67 | E | There is no row at position 11.
+00:28:36:90 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:28:36:90 | E | There is no row at position 11.
+00:28:36:90 | E | There is no row at position 11.
+00:31:46:58 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:31:46:58 | E | There is no row at position 11.
+00:31:46:58 | E | There is no row at position 11.
+00:31:49:26 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:31:49:26 | E | There is no row at position 11.
+00:31:49:26 | E | There is no row at position 11.
+00:31:51:33 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:31:51:33 | E | There is no row at position 11.
+00:31:51:33 | E | There is no row at position 11.
+00:31:54:25 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:31:54:25 | E | There is no row at position 11.
+00:31:54:25 | E | There is no row at position 11.
+00:33:00:46 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:33:00:46 | E | There is no row at position 11.
+00:33:00:46 | E | There is no row at position 11.
+00:33:03:19 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:33:03:19 | E | There is no row at position 11.
+00:33:03:19 | E | There is no row at position 11.
+00:38:12:90 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:38:12:90 | E | There is no row at position 11.
+00:38:12:90 | E | There is no row at position 11.
+00:38:16:70 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:38:16:71 | E | There is no row at position 11.
+00:38:16:71 | E | There is no row at position 11.
+00:38:23:10 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:38:23:10 | E | There is no row at position 11.
+00:38:23:10 | E | There is no row at position 11.
+00:38:45:69 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:38:45:69 | E | There is no row at position 11.
+00:38:45:69 | E | There is no row at position 11.
+00:38:55:74 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:38:55:74 | E | There is no row at position 11.
+00:38:55:74 | E | There is no row at position 11.
+00:38:59:17 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:38:59:17 | E | There is no row at position 11.
+00:38:59:17 | E | There is no row at position 11.
+00:39:01:95 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:39:01:95 | E | There is no row at position 11.
+00:39:01:95 | E | There is no row at position 11.
+00:39:04:64 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:39:04:65 | E | There is no row at position 11.
+00:39:04:65 | E | There is no row at position 11.
+00:39:07:18 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:39:07:19 | E | There is no row at position 11.
+00:39:07:19 | E | There is no row at position 11.
+00:39:24:58 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:39:24:58 | E | There is no row at position 11.
+00:39:24:58 | E | There is no row at position 11.
+00:39:27:22 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:39:27:22 | E | There is no row at position 11.
+00:39:27:22 | E | There is no row at position 11.
+00:39:29:84 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:39:29:84 | E | There is no row at position 11.
+00:39:29:84 | E | There is no row at position 11.
+00:41:08:24 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:08:24 | E | There is no row at position 11.
+00:41:08:24 | E | There is no row at position 11.
+00:41:10:99 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:10:99 | E | There is no row at position 11.
+00:41:10:99 | E | There is no row at position 11.
+00:41:13:72 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:13:72 | E | There is no row at position 11.
+00:41:13:72 | E | There is no row at position 11.
+00:41:16:53 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:16:53 | E | There is no row at position 11.
+00:41:16:53 | E | There is no row at position 11.
+00:41:21:33 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:21:33 | E | There is no row at position 11.
+00:41:21:33 | E | There is no row at position 11.
+00:41:25:89 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:25:89 | E | There is no row at position 11.
+00:41:25:89 | E | There is no row at position 11.
+00:41:43:61 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:43:61 | E | There is no row at position 11.
+00:41:43:61 | E | There is no row at position 11.
+00:41:45:70 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:45:71 | E | There is no row at position 11.
+00:41:45:71 | E | There is no row at position 11.
+00:41:48:35 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:48:35 | E | There is no row at position 11.
+00:41:48:35 | E | There is no row at position 11.
+00:41:50:44 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:50:44 | E | There is no row at position 11.
+00:41:50:44 | E | There is no row at position 11.
+00:41:54:59 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:54:59 | E | There is no row at position 11.
+00:41:54:59 | E | There is no row at position 11.
+00:41:57:54 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:41:57:54 | E | There is no row at position 11.
+00:41:57:54 | E | There is no row at position 11.
+00:42:00:33 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:42:00:33 | E | There is no row at position 11.
+00:42:00:33 | E | There is no row at position 11.
+00:42:03:50 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:42:03:50 | E | There is no row at position 11.
+00:42:03:50 | E | There is no row at position 11.
+00:42:55:29 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:42:55:29 | E | There is no row at position 11.
+00:42:55:29 | E | There is no row at position 11.
+00:43:14:85 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:43:14:85 | E | There is no row at position 11.
+00:43:14:85 | E | There is no row at position 11.
+00:43:17:77 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:43:17:77 | E | There is no row at position 11.
+00:43:17:77 | E | There is no row at position 11.
+00:44:29:69 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:44:29:69 | E | There is no row at position 11.
+00:44:29:69 | E | There is no row at position 11.
+00:44:32:40 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:44:32:40 | E | There is no row at position 11.
+00:44:32:40 | E | There is no row at position 11.
+00:44:34:79 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:44:34:79 | E | There is no row at position 11.
+00:44:34:79 | E | There is no row at position 11.
+00:49:41:75 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:49:41:75 | E | There is no row at position 11.
+00:49:41:75 | E | There is no row at position 11.
+00:49:53:15 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:49:53:15 | E | There is no row at position 11.
+00:49:53:15 | E | There is no row at position 11.
+00:52:54:51 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:52:54:51 | E | There is no row at position 11.
+00:52:54:51 | E | There is no row at position 11.
+00:52:57:13 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+00:52:57:13 | E | There is no row at position 11.
+00:52:57:13 | E | There is no row at position 11.
+01:00:06:63 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+01:00:06:63 | E | There is no row at position 11.
+01:00:06:63 | E | There is no row at position 11.
+01:12:14:66 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+01:12:14:66 | E | There is no row at position 11.
+01:12:14:66 | E | There is no row at position 11.
+01:13:23:45 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+01:13:23:45 | E | There is no row at position 11.
+01:13:23:45 | E | There is no row at position 11.
+01:13:25:65 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+01:13:25:65 | E | There is no row at position 11.
+01:13:25:65 | E | There is no row at position 11.
+01:20:32:62 | I | Matching ok | SEQ : 20174747140, PART : N/A, SCAN N/A, CELL [0,0]
+01:20:32:62 | E | There is no row at position 11.
+01:20:32:63 | E | There is no row at position 11.
+01:24:37:99 | I | Matching ok | SEQ : 20174747250, PART : 52124713AD, SCAN P52124713AD, CELL [1,1]
+01:25:46:22 | I | Matching ok | SEQ : 20174747240, PART : 52124713AD, SCAN P52124713AD, CELL [1,2]
+01:25:48:25 | I | Matching ok | SEQ : 20174747230, PART : N/A, SCAN N/A, CELL [1,3]
+01:25:50:94 | I | Matching ok | SEQ : 20174747220, PART : 52124713AD, SCAN P52124713AD, CELL [1,4]
+01:25:55:42 | I | Matching ok | SEQ : 20174747210, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+01:26:00:39 | I | Matching ok | SEQ : 20174747200, PART : 52124713AD, SCAN P52124713AD, CELL [1,6]
+01:26:05:34 | W | Mismatching | SEQ : 20174747310, PART : 52124713AD, SCAN P04578885AC, CELL [2,1]
+01:26:17:89 | W | Mismatching | SEQ : 20174747310, PART : 52124713AD, SCAN P04578885AC, CELL [2,1]
+01:26:55:37 | W | Mismatching | SEQ : 20174747310, PART : 52124713AD, SCAN P04578885AC, CELL [2,1]
+01:27:27:14 | I | Matching ok | SEQ : 20174747310, PART : 52124713AD, SCAN P52124713AD, CELL [2,1]
+01:27:45:77 | I | Matching ok | SEQ : 20174747300, PART : 52124713AD, SCAN P52124713AD, CELL [2,2]
+01:27:47:78 | I | Matching ok | SEQ : 20174747290, PART : N/A, SCAN N/A, CELL [2,3]
+01:28:13:87 | I | Matching ok | SEQ : 20174747280, PART : 52124713AD, SCAN P52124713AD, CELL [2,4]
+01:28:18:52 | I | Matching ok | SEQ : 20174747270, PART : 52124713AD, SCAN P52124713AD, CELL [2,5]
+01:28:20:54 | I | Matching ok | SEQ : 20174747260, PART : N/A, SCAN N/A, CELL [2,6]
+01:38:34:39 | I | Matching ok | SEQ : 20174747370, PART : 52124713AD, SCAN P52124713AD, CELL [1,1]
+01:38:40:78 | I | Matching ok | SEQ : 20174747360, PART : 68193661AB, SCAN P68193661AB, CELL [1,2]
+01:38:49:16 | I | Matching ok | SEQ : 20174747350, PART : 52124713AD, SCAN P52124713AD, CELL [1,3]
+01:38:54:78 | I | Matching ok | SEQ : 20174747340, PART : 52124713AD, SCAN P52124713AD, CELL [1,4]
+01:38:59:74 | I | Matching ok | SEQ : 20174747330, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+01:39:04:63 | I | Matching ok | SEQ : 20174747320, PART : 52124713AD, SCAN P52124713AD, CELL [1,6]
+01:39:11:61 | I | Matching ok | SEQ : 20174747430, PART : 52124713AD, SCAN P52124713AD, CELL [2,1]
+01:39:22:76 | I | Matching ok | SEQ : 20174747420, PART : 52124713AD, SCAN P52124713AD, CELL [2,2]
+01:39:27:36 | I | Matching ok | SEQ : 20174747410, PART : 52124713AD, SCAN P52124713AD, CELL [2,3]
+01:39:33:94 | I | Matching ok | SEQ : 20174747400, PART : 52124713AD, SCAN P52124713AD, CELL [2,4]
+01:39:40:61 | I | Matching ok | SEQ : 20174747390, PART : 52124713AD, SCAN P52124713AD, CELL [2,5]
+01:46:07:69 | I | Matching ok | SEQ : 20174747380, PART : 52124713AD, SCAN P52124713AD, CELL [2,6]
+01:51:12:41 | I | Matching ok | SEQ : 20174747490, PART : 52124713AD, SCAN P52124713AD, CELL [1,1]
+01:51:15:15 | I | Matching ok | SEQ : 20174747480, PART : 52124713AD, SCAN P52124713AD, CELL [1,2]
+01:51:17:90 | I | Matching ok | SEQ : 20174747470, PART : 52124713AD, SCAN P52124713AD, CELL [1,3]
+01:51:20:48 | I | Matching ok | SEQ : 20174747460, PART : 52124713AD, SCAN P52124713AD, CELL [1,4]
+01:51:23:10 | I | Matching ok | SEQ : 20174747450, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+01:51:31:68 | I | Matching ok | SEQ : 20174747440, PART : 52124713AD, SCAN P52124713AD, CELL [1,6]
+01:51:36:63 | I | Matching ok | SEQ : 20174747550, PART : 04578885AC, SCAN P04578885AC, CELL [2,1]
+01:51:42:25 | I | Matching ok | SEQ : 20174747540, PART : 52124713AD, SCAN P52124713AD, CELL [2,2]
+01:52:01:08 | I | Matching ok | SEQ : 20174747530, PART : 52124713AD, SCAN P52124713AD, CELL [2,3]
+01:52:03:85 | I | Matching ok | SEQ : 20174747520, PART : 52124713AD, SCAN P52124713AD, CELL [2,4]
+01:52:12:98 | I | Matching ok | SEQ : 20174747510, PART : 52124713AD, SCAN P52124713AD, CELL [2,5]
+01:52:19:86 | I | Matching ok | SEQ : 20174747500, PART : 52124713AD, SCAN P52124713AD, CELL [2,6]
+02:21:17:97 | I | Matching ok | SEQ : 20174747610, PART : 52124713AD, SCAN P52124713AD, CELL [1,1]
+02:21:21:53 | I | Matching ok | SEQ : 20174747600, PART : 52124713AD, SCAN P52124713AD, CELL [1,2]
+02:21:24:73 | I | Matching ok | SEQ : 20174747590, PART : 52124713AD, SCAN P52124713AD, CELL [1,3]
+02:21:30:98 | I | Matching ok | SEQ : 20174747580, PART : 52124713AD, SCAN P52124713AD, CELL [1,4]
+02:21:37:40 | I | Matching ok | SEQ : 20174747570, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+02:21:41:90 | I | Matching ok | SEQ : 20174747560, PART : 68193661AB, SCAN P68193661AB, CELL [1,6]
+02:21:51:80 | I | Matching ok | SEQ : 20174747670, PART : 52124713AD, SCAN P52124713AD, CELL [2,1]
+02:22:09:45 | I | Matching ok | SEQ : 20174747660, PART : 52124713AD, SCAN P52124713AD, CELL [2,2]
+02:22:13:28 | I | Matching ok | SEQ : 20174747650, PART : 52124713AD, SCAN P52124713AD, CELL [2,3]
+02:22:17:63 | I | Matching ok | SEQ : 20174747640, PART : 52124713AD, SCAN P52124713AD, CELL [2,4]
+02:22:21:35 | I | Matching ok | SEQ : 20174747630, PART : 52124713AD, SCAN P52124713AD, CELL [2,5]
+02:22:25:73 | I | Matching ok | SEQ : 20174747620, PART : 52124713AD, SCAN P52124713AD, CELL [2,6]
+02:29:24:06 | I | Matching ok | SEQ : 20174747730, PART : 52124713AD, SCAN P52124713AD, CELL [1,1]
+02:29:39:44 | I | Matching ok | SEQ : 20174747720, PART : 52124713AD, SCAN P52124713AD, CELL [1,2]
+02:30:06:64 | I | Matching ok | SEQ : 20174747710, PART : 52124713AD, SCAN P52124713AD, CELL [1,3]
+02:30:13:26 | I | Matching ok | SEQ : 20174747700, PART : 52124713AD, SCAN P52124713AD, CELL [1,4]
+02:30:32:99 | I | Matching ok | SEQ : 20174747690, PART : 52124713AD, SCAN P52124713AD, CELL [1,5]
+02:30:35:14 | I | Matching ok | SEQ : 20174747680, PART : 52124713AD, SCAN P52124713AD, CELL [1,6]
+02:30:44:29 | I | Matching ok | SEQ : 20174747790, PART : 52124713AD, SCAN P52124713AD, CELL [2,1]
+02:31:02:41 | I | Matching ok | SEQ : 20174747780, PART : 52124713AD, SCAN P52124713AD, CELL [2,2]
+02:31:10:99 | I | Matching ok | SEQ : 20174747770, PART : 52124713AD, SCAN P52124713AD, CELL [2,3]
+02:31:15:41 | I | Matching ok | SEQ : 20174747760, PART : 52124713AD, SCAN P52124713AD, CELL [2,4]
+02:31:23:04 | I | Matching ok | SEQ : 20174747750, PART : 52124713AD, SCAN P52124713AD, CELL [2,5]
+02:31:27:66 | I | Matching ok | SEQ : 20174747740, PART : 52124713AD, SCAN P52124713AD, CELL [2,6]
