@@ -1,0 +1,11 @@
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\bin\Release\TruckTracker2_MI.exe.config
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\bin\Release\TruckTracker2_MI.exe
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\bin\Release\TruckTracker2_MI.pdb
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\obj\Release\TruckTracker2_MI.Properties.Resources.resources
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\obj\Release\TruckTracker2_MI.csproj.GenerateResource.Cache
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\obj\Release\TruckTracker2_MI.exe
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\obj\Release\TruckTracker2_MI.pdb
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\bin\Release\TruckTracker2_MI.exe.manifest
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\bin\Release\TruckTracker2_MI.application
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\obj\Release\TruckTracker2_MI.exe.manifest
+c:\users\mobis\documents\visual studio 2013\Projects\TruckTracker2_MI\TruckTracker2_MI\obj\Release\TruckTracker2_MI.application
