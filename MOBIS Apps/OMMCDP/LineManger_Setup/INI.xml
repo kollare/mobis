@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<INI>
+	<INFO>
+		<CONNECTIONSTRING>server=172.17.44.34;database=ommcdp;uid=ommcdp;pwd=MNA_M!2008</CONNECTIONSTRING>
+	</INFO>
+</INI>
