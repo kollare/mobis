@@ -1,0 +1,6 @@
+Server Permissions:
+
+</setting>
+    <setting name="CONNECTIONSTRING" serializeAs="String">
+    <value>Server=10.120.175.75;database=OMMCDP;uid=OMMCDP;pwd=MNA_M!2008</value>
+</setting>
