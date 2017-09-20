@@ -51,4 +51,4 @@ ren "SDSMan64.exe.N00B" "SDSMan64.exe"
 ren "SomXLdr64.exe.N00B" "SomXLdr64.exe"
 
 pause
-:: shutdown /r /t 5
+shutdown /r /t 5
